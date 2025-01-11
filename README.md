@@ -1,3 +1,7 @@
+![descrição da imagem](https://github.com/AdonesMelo/jogo-do-numero-secreto/blob/main/img/code.png) 
+
+
+
 <h1 align="center"> Jogo do número secreto </h1>
 
 <h2>🔖 Sobre</h2>
