@@ -1,4 +1,4 @@
-![descrição da imagem](https://github.com/AdonesMelo/jogo-do-numero-secreto/blob/main/img/code.png) 
+![numeros aletorios](https://github.com/AdonesMelo/jogo-do-numero-secreto/blob/main/img/code.png) 
 
 
 
